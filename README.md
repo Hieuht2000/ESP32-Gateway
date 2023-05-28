@@ -6,9 +6,12 @@ A Bluetooth-Low-Energy Gateway with Ethernet, LoRa as backhauls using ESP32
 
 Hardware Overview
 
-![Device Specs](https://github.com/Hieuht2000/ESP32-Gateway/assets/63698805/7981eaf8-dbb3-4222-93b5-78f0977ac912)
+![image](https://github.com/Hieuht2000/ESP32-Gateway/assets/63698805/ae008c68-efb1-439b-9e60-471252998830)
 
 
 With Enclosure
 
-![348354692_229831736418425_4327540819403900192_n](https://github.com/Hieuht2000/ESP32-Gateway/assets/63698805/73faef7d-56d7-4eb8-806f-46121634c03c)
+![Enclosure1](https://github.com/Hieuht2000/ESP32-Gateway/assets/63698805/1cec4768-6532-4acb-8d70-30717d34aad1)
+
+
+![348354692_229831736418425_4327540819403900192_n](https://github.com/Hieuht2000/ESP32-Gateway/assets/63698805/61905c62-b5ce-448a-be4b-413f4187b04d)
