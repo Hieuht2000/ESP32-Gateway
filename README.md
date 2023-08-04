@@ -17,6 +17,8 @@ There a dashboard using Node-RED to vizualized the data. Firmware for beacons in
 ![ESP32 Gateway](https://github.com/Hieuht2000/ESP32-Gateway/assets/63698805/8e22e89b-d945-4b41-82a9-b2daa3057cb4) 
 
 ##  With Enclosure
+
 Design with Fusion360
+
 ![Enclosure1](https://github.com/Hieuht2000/ESP32-Gateway/assets/63698805/1cec4768-6532-4acb-8d70-30717d34aad1)
 
