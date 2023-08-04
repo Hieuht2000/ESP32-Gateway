@@ -6,7 +6,7 @@ A Bluetooth-Low-Energy Gateway with Ethernet, LoRa as backhauls using ESP32. The
 
 ![image](https://github.com/Hieuht2000/ESP32-Gateway/assets/63698805/ae008c68-efb1-439b-9e60-471252998830)
 
-##  Demo firmware 
+##  Firmware 
 
 The firmware setup is in [Demo/Demo Setup.png ](https://github.com/Hieuht2000/ESP32-Gateway/blob/f936b5e5aa8e6cdfc5cd262c80da75539e702d1e/Demo/Demo%20Setup.png). The device will collecting datas from ibeacons and Eddystone beacons in range but only upload the datas to MQTT server and LORA server of the beacons with matched MAC address(define in "setting.h"). The 3 status LEDs is for each connections, it blinks when data coming in or out: Green for MQTT, Blue for BLE and Red for LORA.
 
@@ -22,3 +22,6 @@ Design with Fusion360
 
 ![Enclosure1](https://github.com/Hieuht2000/ESP32-Gateway/assets/63698805/1cec4768-6532-4acb-8d70-30717d34aad1)
 
+##  Demo video
+
+https://github.com/Hieuht2000/ESP32-Gateway/blob/49788eb1eb1c190cd8445869d5bf5480a32fc1ca/Demo/BLE%20Gateway%20demo.mp4
